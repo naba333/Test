@@ -8,5 +8,6 @@ public class GitTest
 		System.out.println("Hello!");
 		Citizen c1 = new Citizen("Bob", 23);
 		c1.introduce();
+		System.out.println("I can't say what is my job now.");
 	}
 }
