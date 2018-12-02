@@ -6,7 +6,7 @@ public class GitTest
 	public static void main(String args[])
 	{
 		System.out.println("Hello!");
-		Citizen c1 = new Citizen("Bob", 23);
+		Citizen c1 = new Citizen("Bob", "driver", 23);
 		c1.introduce();
 	}
 }
